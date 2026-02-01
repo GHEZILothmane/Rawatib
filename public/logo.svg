@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 100 100" fill="none">
+  <!-- Logo RAWATIB - Forme géométrique en R stylisé -->
+  <!-- Partie gauche (L inversé) -->
+  <path d="M15 15 L15 85 L35 85 L35 55 L55 35 L55 15 L15 15 Z" fill="#3B5998"/>
+  <!-- Partie droite (triangle/flèche) -->
+  <path d="M45 45 L45 85 L85 85 L85 45 L65 45 L65 65 L45 45 Z" fill="#2563EB"/>
+</svg>
